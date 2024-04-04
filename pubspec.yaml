@@ -10,7 +10,7 @@ environment:
   flutter: ">=2.5.0"
 
 dependencies:
-  dio: ^4.0.0
+  sentry_dio: ^7.6.2
   flutter:
     sdk: flutter
 
